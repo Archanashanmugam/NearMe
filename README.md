@@ -143,10 +143,12 @@ Vadapalani temple represents the grandiose culture of the Hindus which has sever
 </font>
 </p>
 </body>
-</html>
+</html>/
 ```
 
 ## Output:
+![Output](./screenshots/out.png)
+
 ![Output](./screenshots/out1.png)
 
 ![Output](./screenshots/out2.png)
@@ -156,8 +158,6 @@ Vadapalani temple represents the grandiose culture of the Hindus which has sever
 ![Output](./screenshots/out4.png)
 
 ![Output](./screenshots/out5.png)
-
-![Output](./screenshots/out6.png)
 
 ## HTML Validator
 ![HTML Validator](./screenshots/valid.png)
